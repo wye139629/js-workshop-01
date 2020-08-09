@@ -13,6 +13,6 @@
     - 新增的任務也有標記/移除功能
 
 - (加分題) 拖拉任務
-    - 透過 HTML Drag and Drop API 完成
+    - 透過 HTML Drag and Drop API 完成，可參考 (04_bonus-drag)
 
 建議使用原生 JavaScript 實作，所有程式都會寫在 main.js 檔，不會修改到其他檔案，建議按照順序完成每個功能，這樣比較簡單一點。
