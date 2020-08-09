@@ -1,0 +1,32 @@
+.outer {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  padding: 100px;
+  background-color: cornflowerblue;
+}
+
+.inner {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: #FFEB3B;
+  cursor: pointer;
+}
+
+span {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  display: inline-block;
+}
+
+.outer > span {
+  top: 50px;
+  left: 127px;
+}
+
+.inner > span {
+  top: 50px;
+  left: 29px;
+}
